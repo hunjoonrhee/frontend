@@ -1,0 +1,9 @@
+.git
+tmp
+**/.next
+build
+**/node_modules
+**/dist
+dist
+node_modules
+coverage
